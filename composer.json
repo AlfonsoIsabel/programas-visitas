@@ -1,0 +1,17 @@
+{
+    "name": "alfonso/programas-visitas",
+    "autoload": {
+        "psr-4": {
+            "Alfonso\\ProgramasVisitas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alfonso",
+            "email": "alfonsoisabelromero@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.10"
+    }
+}
